@@ -7,9 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "dependencies": {
-    "express": "^4.17.1",
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ankitdubey987/node-express-course.git"
@@ -20,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ankitdubey987/node-express-course/issues"
   },
-  "homepage": "https://github.com/ankitdubey987/node-express-course#readme"
+  "homepage": "https://github.com/ankitdubey987/node-express-course#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
